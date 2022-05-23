@@ -11,19 +11,29 @@ This analysis provides insights from one month of NYC Citibike data for a busine
 
 ## Results
 
-![Who are our NYC Riders?](Resources/demographics.png)
+### Who are our NYC riders?
 
-page 2
+![Who are our NYC riders?](Resources/demographics.png)
 
-page 3
+### How long are riders biking for?
 
-page 4
+![Who are our NYC riders?](Resources/length.png)
 
-link
+
+### When are riders biking?
+
+![Who are our NYC riders?](Resources/time.png)
+
+### Commuters and Weekenders
+
+![Who are our NYC riders?](Resources/commuter_v_weekender.png.png)
+
+### Tableau Public Link
+Find the interactive story here: [CitiBike Story](https://public.tableau.com/app/profile/sarah.gallagher6694/viz/CitiBikeStory_16532014288480/CitiBike?publish=yes). 
 
 ## Summary 
 
-The pattern of commuting subscribers and weekend one time users emerged from this analysis. 
+The pattern of commuting subscribers and weekend one time users emerged from this analysis. Subscribers are the majority of NYC Citibike users; they typically bike for less than 20 minutes, most often during commuting hours but also during the weekends, and are mostly male. Weekenders are typically non-subscribing customers who bike for between 10 and 40 minutes and for whom we have less data (i.e. "unknown" gender).
 
 The majority of riders are recurring subscribers, so further analysis could include looking more deeply into their patterns of use (by location, how often commuters use bikes for other purposes). Directions from this insight can include optimizing the commuting experience as well as increasing weekender or other uses. 
 
