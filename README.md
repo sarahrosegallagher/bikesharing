@@ -26,7 +26,7 @@ This analysis provides insights from one month of NYC Citibike data for a busine
 
 ### Commuters and Weekenders
 
-![Who are our NYC riders?](Resources/commuter_v_weekender.png.png)
+![Who are our NYC riders?](Resources/commuter_v_weekender.png)
 
 ### Tableau Public Link
 Find the interactive story here: [CitiBike Story](https://public.tableau.com/app/profile/sarah.gallagher6694/viz/CitiBikeStory_16532014288480/CitiBike?publish=yes). 
